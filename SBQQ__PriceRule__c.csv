@@ -1,0 +1,4 @@
+"Guid","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__TargetObject__c","al_check__c"
+6d2fb898-b881-41ee-9923-44b360a8025b,Rule1,true,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator,false
+6e8af221-fc88-4639-ab6a-f59ad89eacd3,Rule2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator,false
+de3eb9ab-1ab3-42db-98d4-b5242fb83a84,Set Approval Level,true,"#N/A",All,"#N/A",On Initialization;Before Calculate;On Calculate;After Calculate,100.0,"#N/A",Calculator,false
